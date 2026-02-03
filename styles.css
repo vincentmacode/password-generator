@@ -1,3 +1,12 @@
+body{
+  background-color: mintcream;
+  font-family: 'Arial', sans-serif;
+  color: #000000;
+  text-shadow: 1px 2px 2px rgba(23, 13, 210, 0.1);
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   max-width: 1200px;
   margin: 0 auto;
@@ -28,4 +37,17 @@ h1:active {
   background-color: #A8DF8E;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-group {
+  margin-bottom: 15px; 
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+.output-group {
+display: flex;
+gap: 10px;
 }
