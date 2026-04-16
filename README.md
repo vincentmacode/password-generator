@@ -1,1 +1,2 @@
-Used chatgpt to write the scripts. Needless to say, it's working as intended 
+# Password Generator
+*A static web app password generator*
